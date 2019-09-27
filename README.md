@@ -1,5 +1,5 @@
 # weixinApp
-微信公众号
+微信小程序
 
 # AUTHOR
 By:Arise
